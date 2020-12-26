@@ -1,0 +1,43 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #994a00;
+    color: white;
+    font-size: 30px;
+}
+.menuitem{
+    color: white;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 50px;
+}
+.itemimage{
+    padding-left: 700px;
+}
+.itemtitle{
+    font-size: 35px;
+}
+.orderbutton{
+    margin-left: 910px;
+    margin-top: 30px;
+    background-color: #333333;
+    color: white;
+    border-radius: 30px;
+    height: 40px;
+    width: 100px;
+    border: 2px solid #994a00;
+
+}
+.orderbutton:hover{
+    background-color: #994a00;
+ }
+.itemdescription{
+    vertical-align: top;
+}
+body{
+    background-color: #333333;
+}
+#pizzaimage{
+    padding-top: 40px;
+}
