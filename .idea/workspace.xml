@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bfb1418-b906-4d30-87d1-33c5df230ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DeliveryMethod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeliveryMethodCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dinein.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pickup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/truck.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DeliveryJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderComplete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrderCompleteCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/MainScreen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeliveryMethod.html" beforeDir="false" afterPath="$PROJECT_DIR$/DeliveryMethod.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeliveryMethodCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/DeliveryMethodCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MainCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -36,9 +39,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FirstWebApp" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -59,7 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1608952010377</updated>
       <workItem from="1608952011455" duration="6555000" />
-      <workItem from="1609035548509" duration="7513000" />
+      <workItem from="1609035548509" duration="9839000" />
+      <workItem from="1609101786961" duration="11515000" />
+      <workItem from="1611704800800" duration="5649000" />
     </task>
     <servers />
   </component>
@@ -76,6 +83,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

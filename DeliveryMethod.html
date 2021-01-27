@@ -6,30 +6,40 @@
     <link href="DeliveryMethodCSS.css" rel="stylesheet"/>
 </head>
 <body>
+<div class="header">
+    <h1>Delivery Type</h1>
+</div>
+<div class="custommessage">
+    <t id="message">heyguys</t>
+</div>
 <div class="flex-container">
-
     <div class="deliverytype">
         <button class="method" id="deliverbutton">
             <img src="truck.svg" width="200" height="150">
         </button>
         <div>
-        <t class="deliverytypetext">Delivery</t>
+            <t class="deliverytypetext">Delivery</t>
         </div>
     </div>
 
     <div class="deliverytype">
-        <button class="method" id="pickupbutton">
-            <img src="pickup.png" width="200" height="200">
-        </button>
+        <a href="OrderComplete.html">
+            <button class="method" id="pickupbutton">
+                <img src="pickup.png" width="200" height="200">
+            </button>
+        </a>
         <t class="deliverytypetext">Pick Up</t>
     </div>
 
     <div class="deliverytype">
-        <button class="method" id="dineinbutton">
-            <img src="dinein.png" width="200" height="200">
-        </button>
+        <a href="OrderComplete.html">
+            <button class="method" id="dineinbutton">
+                <img src="dinein.png" width="200" height="200">
+            </button>
+        </a>
         <t class="deliverytypetext">Dine In</t>
     </div>
 </div>
+<script type="application/javascript" src="DeliveryJS.js"></script>
 </body>
 </html>

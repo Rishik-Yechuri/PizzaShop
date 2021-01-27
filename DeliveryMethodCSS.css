@@ -9,6 +9,15 @@ body{
     width: 250px;
     border: 2px solid #994a00;
 }
+.header {
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+    background: #994a00;
+    color: white;
+    border-color: #994a00;
+    font-size: 30px;
+}
 .method:hover{
     background-color: #994a00;
 }
@@ -17,7 +26,7 @@ body{
     justify-content: center;
     margin-left: 20%;
     width: 60%;
-    margin-top: 14%;
+    margin-top: 4%;
 }
 
 .deliverytype {
@@ -32,4 +41,12 @@ body{
     margin-top: 20px;
     font-size: 30px;
     color: white;
+}
+.custommessage{
+    margin-top: 2%;
+    margin-left: 35%;
+    width: 30%;
+    height: 20px;
+    color: white;
+    text-align: center;
 }

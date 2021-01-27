@@ -1,0 +1,28 @@
+body{
+    background-color: #333333;
+}
+.container{
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50%;
+}
+.smallcontainer{
+    text-align: center;
+    color: white;
+}
+#ordercomplete{
+    font-size: 32px;
+    font-weight: bold;
+}
+#donebutton{
+    margin-top: 60px;
+    background-color: #333333;
+    color: white;
+    border-radius: 30px;
+    height: 40px;
+    width: 100px;
+    border: 2px solid #994a00;
+}
+#donebutton:hover{
+    background-color: #994a00;
+}

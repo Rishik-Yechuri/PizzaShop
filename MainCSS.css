@@ -1,24 +1,31 @@
+
 .header {
     padding: 60px;
+    margin-outside: 0px;
     text-align: center;
     background: #994a00;
     color: white;
+    border-color: #994a00;
     font-size: 30px;
 }
-.menuitem{
+
+.menuitem {
     color: white;
     text-align: center;
     display: inline-block;
     vertical-align: top;
     padding-left: 50px;
 }
-.itemimage{
+
+.itemimage {
     padding-left: 700px;
 }
-.itemtitle{
+
+.itemtitle {
     font-size: 35px;
 }
-.orderbutton{
+
+.orderbutton {
     margin-left: 910px;
     margin-top: 30px;
     background-color: #333333;
@@ -29,15 +36,20 @@
     border: 2px solid #994a00;
 
 }
-.orderbutton:hover{
+
+.orderbutton:hover {
     background-color: #994a00;
- }
-.itemdescription{
+}
+
+.itemdescription {
     vertical-align: top;
 }
-body{
+
+body {
     background-color: #333333;
+    margin-outside: -20, 0, 0, 0;
 }
-#pizzaimage{
+
+#pizzaimage {
     padding-top: 40px;
 }
