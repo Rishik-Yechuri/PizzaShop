@@ -3,7 +3,8 @@ body{
 }
 .method{
     background-color: #333333;
-    color: white;
+    border-color: #994a00;
+    border-style: solid;
     border-radius: 30px;
     height: 250px;
     width: 250px;
