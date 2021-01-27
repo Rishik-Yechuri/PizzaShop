@@ -7,7 +7,7 @@ body{
     border-radius: 30px;
     height: 250px;
     width: 250px;
-    border: 2px solid #994a00;
+    border-width: medium;
 }
 .header {
     padding: 10px;

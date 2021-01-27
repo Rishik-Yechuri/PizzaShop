@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bfb1418-b906-4d30-87d1-33c5df230ee1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DeliveryJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderComplete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrderCompleteCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeliveryJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/DeliveryJS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DeliveryMethod.html" beforeDir="false" afterPath="$PROJECT_DIR$/DeliveryMethod.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DeliveryMethodCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/DeliveryMethodCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/MainCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,8 @@
       <workItem from="1608952011455" duration="6555000" />
       <workItem from="1609035548509" duration="9839000" />
       <workItem from="1609101786961" duration="11515000" />
-      <workItem from="1611704800800" duration="5649000" />
+      <workItem from="1611704800800" duration="6126000" />
+      <workItem from="1611725181512" duration="4514000" />
     </task>
     <servers />
   </component>
